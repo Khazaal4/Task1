@@ -7,9 +7,9 @@ export default function AboutSection(){
                     <h1 className="text-8xl font-extrabold text-gray-200 tracking-tighter ">About</h1>
                     <p className="-mt-4 text-[20px] text-gray-500">less is more Work</p>
                 </div>
-                <div className="grid grid-cols-1 md:grid-cols-2">
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-7">
                     {/*photo and what is behind */}
-                    <div className="relative w-60 h-90">
+                    <div className="relative w-60 h-90 ">
                         <div>
                             <div className="absolute -top-7 -left-4 w-20 h-[115%] bg-gray-200"/>
                             <div className="absolute top-60 -right-30 w-[120%] h-20 bg-teal-400"/>
