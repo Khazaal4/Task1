@@ -15,14 +15,14 @@ export function ServicesSection(){
                                 <div className="flex items-start gap-4 shrink-0 mt-1">
                                 <Palette className="text-teal-400 h-20 w-20 -mt-7"/>
                                 <div className="space-y-4 flex flex-col text-left">
-                                <h1 className="text-1xl font-extrabold tracking-tight">Graphic Design</h1>
+                                <h1 className="text-1xl font-extrabold tracking-tight  text-black">Graphic Design</h1>
                                 <p className="text-left text-gray-500 tracking-wider text-[18px]">Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore quasi natus velit explicabo praesentium!</p>
                                 </div>
                             </div>
                                 <div className="flex items-start gap-4 shrink-0 mt-1">
                                 <Square className="text-teal-400 h-20 w-20 -mt-7"/>
                                 <div className="space-y-4 flex flex-col text-left">
-                                <h1 className="text-1xl font-extrabold tracking-tight">Web developer</h1>
+                                <h1 className="text-1xl font-extrabold tracking-tight  text-black">Web developer</h1>
                                 <p className="text-left text-gray-500 tracking-wider text-[18px]">Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore quasi natus velit explicabo praesentium!</p>
                                 </div>
                             </div>
@@ -31,14 +31,14 @@ export function ServicesSection(){
                                 <div className="flex items-start gap-4 shrink-0 mt-1">
                                 <Table2 className="text-teal-400 h-20 w-20 -mt-7"/>
                                 <div className="space-y-4 flex flex-col text-left">
-                                <h1 className="text-1xl font-extrabold tracking-tight">UI & UX</h1>
+                                <h1 className="text-1xl font-extrabold tracking-tight  text-black">UI & UX</h1>
                                 <p className="text-left text-gray-500 tracking-wider text-[18px]">Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore quasi natus velit explicabo praesentium!</p>
                             </div>
                         </div>
                                 <div className="flex items-start gap-4 shrink-0 mt-1">
                                 <PenOff className="text-teal-400 h-20 w-20 -mt-7"/>
                                 <div className="space-y-4 flex flex-col text-left">
-                                <h1 className="text-1xl font-extrabold tracking-tight">Web Designer</h1>
+                                <h1 className="text-1xl font-extrabold tracking-tight  text-black">Web Designer</h1>
                                 <p className="text-left text-gray-500 tracking-wider text-[18px]">Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore quasi natus velit explicabo praesentium!</p>
                                 </div>
                                 </div>

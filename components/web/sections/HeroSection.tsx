@@ -8,7 +8,7 @@ export default function HeroSection(){
     
       <div className="relative z-10 flex flex-col min-h-screen items-center justify-center text-center px-4 ">
         <h1 className="text-6xl md:text-5xl text-teal-400 font-extrabold py-5">Hello there</h1>
-        <p className="bg-white px-2 py-1 text-[20px] font-stretch-150%">We are Leon - Super Creative &<br/> Minimal Agency Web Template</p>
+        <p className="bg-white px-2 py-1 text-[20px] font-stretch-150%  text-black">We are Leon - Super Creative &<br/> Minimal Agency Web Template</p>
       </div>
         </section>
     );

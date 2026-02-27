@@ -20,10 +20,10 @@ export default function ReferenceSection(){
                                 </a>
                             </div>
                             <div className="flex gap-2">
-                                <h1>Find Us On Social Networks</h1>
-                                <Youtube className="w-5 h-5"/>
-                                <Facebook className="w-5 h-5"/>
-                                <Twitter className="w-5 h-5"/>
+                                <h1 className=" text-black">Find Us On Social Networks</h1>
+                                <Youtube className="w-5 h-5  text-black"/>
+                                <Facebook className="w-5 h-5  text-black"/>
+                                <Twitter className="w-5 h-5  text-black"/>
                             </div>
                         </div>
                     </div>

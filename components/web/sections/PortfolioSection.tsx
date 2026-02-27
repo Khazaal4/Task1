@@ -18,7 +18,7 @@ export default function PortfolioSection(){
                             height={360}/>
                         </div>
                         <div className="space-y-3 px-3 py-4">
-                            <h1 className="font-extrabold ">Project Here</h1>
+                            <h1 className="font-extrabold  text-black">Project Here</h1>
                             <p className="text-gray-500 tracking-wider ">My creative ability is very difficult to measure because it can manifest in so many surprising and.</p>
                         </div>
                     </div>
@@ -32,7 +32,7 @@ export default function PortfolioSection(){
                                 height={340}/>
                             </div>
                             <div className="space-y-3 px-3 py-4">
-                                <h1 className="font-extrabold ">Project Here</h1>
+                                <h1 className="font-extrabold  text-black">Project Here</h1>
                                 <p className="text-gray-500 tracking-wider">My creative ability is very difficult to measure because it can manifest in so many surprising and.</p>
                             </div>
                         </div>
@@ -46,7 +46,7 @@ export default function PortfolioSection(){
                                 height={340}/>
                             </div>
                             <div className="space-y-3 px-3 py-4">
-                                <h1 className="font-extrabold ">Project Here</h1>
+                                <h1 className="font-extrabold  text-black">Project Here</h1>
                                 <p className="text-gray-500 tracking-wider">My creative ability is very difficult to measure because it can manifest in so many surprising andh</p>
                             </div>
                         </div>

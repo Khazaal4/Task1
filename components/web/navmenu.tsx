@@ -20,28 +20,28 @@ export default function NavMenu({ open, onClose }: NavMenuProps) {
         <Link
           href="/"
           onClick={onClose}
-          className="block px-4 py-2 text-base transition-transform duration-400 hover:translate-x-3">
+          className="block px-4 py-2 text-base transition-transform duration-400 hover:translate-x-3  text-black">
           Services
         </Link>
 
         <Link
           href="/about"
           onClick={onClose}
-          className="block px-4 py-2 text-base transition-transform duration-400 hover:translate-x-3">
+          className="block px-4 py-2 text-base transition-transform duration-400 hover:translate-x-3  text-black">
           Portfolio
         </Link>
 
         <Link
           href="/contact"
           onClick={onClose}
-          className="block px-4 py-2 text-base transition-transform duration-400 hover:translate-x-3">
+          className="block px-4 py-2 text-base transition-transform duration-400 hover:translate-x-3  text-black">
           About
         </Link>
         <Link
         href="/About"
         
         onClick={onClose}
-        className="block px-4 py-2 text-base transition-transform duration-400 hover:translate-x-3">
+        className="block px-4 py-2 text-base transition-transform duration-400 hover:translate-x-3  text-black">
           Contact
         </Link>
       </nav>

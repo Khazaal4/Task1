@@ -23,7 +23,7 @@ export default function AboutSection(){
                     </div>
                     {/*the 2 p */}
                     <div className="space-y-10">
-                        <p className="font-bold leading-8 tracking-wider">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates quod pariatur voluptatum id ea iure, ducimus dolor culpa saepe sed similique delectus reiciendis sint sunt ullam esse voluptate. Doloribus, labore?</p>
+                        <p className="font-bold leading-8 tracking-wider  text-black">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates quod pariatur voluptatum id ea iure, ducimus dolor culpa saepe sed similique delectus reiciendis sint sunt ullam esse voluptate. Doloribus, labore?</p>
                         <div className="h-px w-80 bg-teal-400"/>
                         <p className="leading-8 text-gray-500 tracking-wider">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Modi dolores illo quia perferendis eaque nisi iure, laboriosam repellat voluptate eligendi asperiores fugit. Numquam vero nisi repudiandae fugit, hic eos? Voluptas.</p>
                     </div>
