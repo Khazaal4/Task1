@@ -1,7 +1,7 @@
 import {Youtube,Facebook,Twitter,Copyright} from "lucide-react";
 export default function ReferenceSection(){
     return(
-        <section>
+        <section id="Contact">
             <div className="w-full bg-gray-100 pb-25">
                 <div className="mx-auto w-full max-w-7xl px-4 md:px-6 lg:px-6">
                     <div className="flex flex-col items-center justify-center ">

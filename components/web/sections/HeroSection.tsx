@@ -1,8 +1,8 @@
 import Image from "next/image";
 export default function HeroSection(){
     return(
-        <section className="relative min-h-screen  mx-3 w-auto">
-      <div className="fixed inset-0 -z-10 bg-cover bg-top mx-2"
+        <section className="relative min-h-screen w-auto">
+      <div className="fixed inset-0 -z-10 bg-cover bg-top "
       style={{backgroundImage: "url('/images/last-mount.jpg')"}}
       />
     

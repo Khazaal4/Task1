@@ -2,7 +2,7 @@ import Image from "next/image";
 import {Palette,Square,PenOff,Table2} from "lucide-react";
 export function ServicesSection(){
     return(
-        <section className="w-full py-18 z-20 bg-white">
+        <section id="Services" className="w-full py-18 z-20 bg-white">
             <div className="mx-auto w-full max-w-7xl px-4 md:px-6 lg:px-8">
                 <div className="space-y-20">
                     <div className="flex flex-col items-center justify-center ">

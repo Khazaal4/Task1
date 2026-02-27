@@ -17,33 +17,33 @@ export default function NavMenu({ open, onClose }: NavMenuProps) {
       ].join(" ")}>
        <div className="absolute -top-2 right-4 h-4 w-4 rotate-45 bg-gray-100"/>
       <nav className="py-2 divide-y divide-gray-200">
-        <Link
-          href="/"
+        <a
+          href="#Services"
           onClick={onClose}
-          className="block px-4 py-2 text-base transition-transform duration-400 hover:translate-x-3  text-black">
+          className="block px-4 py-2 text-base transition-transform duration-400 hover:translate-x-3 hover:text-gray-700 text-black">
           Services
-        </Link>
+        </a>
 
-        <Link
-          href="/about"
+        <a
+          href="#Portfolio"
           onClick={onClose}
-          className="block px-4 py-2 text-base transition-transform duration-400 hover:translate-x-3  text-black">
+          className="block px-4 py-2 text-base transition-transform duration-400 hover:translate-x-3 hover:text-gray-700 text-black">
           Portfolio
-        </Link>
+        </a>
 
-        <Link
-          href="/contact"
+        <a
+          href="#About"
           onClick={onClose}
-          className="block px-4 py-2 text-base transition-transform duration-400 hover:translate-x-3  text-black">
+          className="block px-4 py-2 text-base transition-transform duration-400 hover:translate-x-3 hover:text-gray-700 text-black">
           About
-        </Link>
-        <Link
-        href="/About"
+        </a>
+        <a
+        href="#Contact"
         
         onClick={onClose}
-        className="block px-4 py-2 text-base transition-transform duration-400 hover:translate-x-3  text-black">
+        className="block px-4 py-2 text-base transition-transform duration-400 hover:translate-x-3 hover:text-gray-700 text-black">
           Contact
-        </Link>
+        </a>
       </nav>
     </div>
   );
